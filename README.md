@@ -1,5 +1,5 @@
 # COVID-19
-This is a Discord bot coded in node.js with discord.js for providing info on the novel coronavirus (COVID-19) by [xrillex](https://xrillex.com). 
+This is a Discord bot coded in node.js with discord.js for providing info on the novel coronavirus (COVID-19) by [owin](https://owin.dev). 
 [Stats](https://imgur.com/a/JZp13P2). 
 Gathered from Various sources. Stats by country coming soon. 
 Just add the bot and use the stats command. Stats are constanly updated.
